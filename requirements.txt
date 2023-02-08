@@ -2,7 +2,7 @@
 requests==2.25.1
 # Pin crypography because later version require `setuptools_rust` which is not available for Alpine
 # See: https://github.com/Azure/azure-cli/issues/16858
-cryptography==3.4.7
+cryptography==39.0.1
 PyYAML==5.4.1
 awscli==1.19.49
 boto==2.49.0
